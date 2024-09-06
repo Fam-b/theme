@@ -23,7 +23,7 @@ link: none
 
 To download this theme here you need to follow these steps correctly:
 
-1.Click on the file called `TESTTHEME.theme.css`
+1.Click on the file called `Orangetheme.theme.css`
 
 2.Click on the button with the download symbol at the top right of the file
 
