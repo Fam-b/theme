@@ -1,4 +1,4 @@
-## Test Theme
+## Simple Orange Theme
 
 Background image: https://images3.alphacoders.com/961/96129.jpg
 
