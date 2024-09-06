@@ -6,5 +6,7 @@ Credit goes to VaperousCreeper  Most of the code belongs to him
 
 # Download a theme
 
-to download a theme just click on the "Themes" folder and find an theme you like.
-if you found an theme you like just follow the instructions in the Readme file of the theme
+to download a theme just click on the `Themes` folder and find a theme you like.
+if you found a theme you like just follow the instructions in the Readme file of the theme
+
+if you have any questions or feedback just dm me in discord. user: Deepmory
