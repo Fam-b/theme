@@ -18,12 +18,7 @@
  }
    
  /*
- Theme Owned and Made by VaporousCreeper#9514
-   
- Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
- Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
- 
- The 2 items above are not owned by me, They go to there respected owners 
+ Theme Owned and Made by VaporousCreeper#9514  Modified by: Deepmory(famb) 
  */
  
 /*--------------------------------------------------------*/
@@ -876,7 +871,7 @@
         margin: 0px;
     }
     #app-mount .typeWindows_a934d8:after {
-        content: "GGO Kirito v1.3.6 By VaporousCreeper";
+        content: "Test Theme";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
