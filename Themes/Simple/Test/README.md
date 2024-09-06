@@ -1,6 +1,6 @@
 ## Test Theme
 
-Background image: https://github.com/user-attachments/assets/a9bddf26-b934-4efb-a80e-2138d9071542
+Background image: https://images3.alphacoders.com/961/96129.jpg
 
 
 Theme made by Deepmory
