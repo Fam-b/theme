@@ -42,4 +42,4 @@ The theme wont setup itself yk so follow these steps to setup the theme:
 (for vencord users: open your discord settings.  Scroll down till you see the `Vencord` category.  then click on `Themes`.  now just click on `Open Themes Folder` and paste the theme file there.  after that just click on `Load missing Themes` and enable the theme)
 
 
-Congrats you now done installing this theme. Enjoy
+### Congrats you now done installing this theme. Enjoy
