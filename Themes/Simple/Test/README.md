@@ -6,7 +6,7 @@ Theme made by Deepmory
 
 ## Preview
 
-![Preview]()
+![Preview](https://github.com/user-attachments/assets/e20fddfd-0dac-4326-b8ab-42157f7cba4d)
 
 ## Download
 
