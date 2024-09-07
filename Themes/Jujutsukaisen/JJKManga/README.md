@@ -1,4 +1,4 @@
-## Simple Orange Theme
+## JJK Manga Theme
 
 Background image: https://images3.alphacoders.com/137/1376072.jpg
 
