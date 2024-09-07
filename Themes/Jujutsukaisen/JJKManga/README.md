@@ -7,7 +7,8 @@ Theme made by Deepmory
 
 ## Preview
 
-![Preview](https://github.com/user-attachments/assets/0cb10799-5410-4432-bef1-168b73dfe9e0)
+![Preview](https://github.com/user-attachments/assets/014f72fe-da39-4d69-8b7f-e31ace507e99)
+
 
 ## Download
 
